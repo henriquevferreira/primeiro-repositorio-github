@@ -1,0 +1,20 @@
+GIT E GITHUB: RELEMBRANDO ALGUMAS COISINHAS
+
+README é um arquivo com a função de apresentar informações do projeto.
+
+Mais informações sobre .md ⬇
+www.markdownguide.org/basic-syntax/
+	
+[título pessoal do link] (link)
+
+Copiar HTTPS do código no Git
+$ git clone [link]
+
+ $ git add .
+Para adicionar tudo que há de novo no repositório local
+
+$ git commit -m “[...]”
+Para criar o commit do arquivo
+
+$ git push origin main
+Para empurrar o arquivo para o repositório remoto do GitHub
