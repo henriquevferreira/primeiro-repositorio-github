@@ -10,7 +10,7 @@ www.markdownguide.org/basic-syntax/
 Copiar HTTPS do código no Git
 $ git clone [link]
 
- $ git add .
+$ git add .
 Para adicionar tudo que há de novo no repositório local
 
 $ git commit -m “[...]”
